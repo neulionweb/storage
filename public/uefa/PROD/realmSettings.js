@@ -1,4 +1,4 @@
-{
+var realmSettingsOverride = {
   "settings": {
     "PRIMARY_COLOR": "#00E2FF",
     "MAIN_TITLE": "UEFA.tv",
@@ -12,4 +12,4 @@
     }
   ],
   "fullGuestAccess": "ALLOWED"
-}
+};
