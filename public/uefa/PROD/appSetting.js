@@ -1,5 +1,5 @@
 var appSetting = {
-    'realm-setting': {
+    'realm-settings': {
         "settings": {
             "PRIMARY_COLOR": "#00E2FF",
             "MAIN_TITLE": "UEFA.tv",
