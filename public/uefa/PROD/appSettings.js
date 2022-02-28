@@ -1,4 +1,4 @@
-var appSetting = {
+var appSettings = {
     'realm-settings': {
         "settings": {
             "PRIMARY_COLOR": "#00E2FF",
