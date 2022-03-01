@@ -17,8 +17,9 @@ var appSettings = {
     'label': {
         'translations': {
             'en_GB': {
-                email: "Email:",
-                password: "Password:",
+                'email': "Email:",
+                'password': "Password:",
+                'broadcasters': "Broadcasters",
             },
         },
     },
