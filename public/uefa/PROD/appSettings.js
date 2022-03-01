@@ -14,6 +14,14 @@ var appSettings = {
         ],
         "fullGuestAccess": "ALLOWED"
     },
+    'label': {
+        'translations': {
+            'en_GB': {
+                email: "Email:",
+                password: "Password:",
+            },
+        },
+    },
     'menu-items': [{
         "id": 2188,
         "title": "Callum Test Section",
